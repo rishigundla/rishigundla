@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Sr.+Business+Intelligence+Engineer;Data+Engineer;Analytics+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Sr.+Business+Intelligence+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,7 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshgundla)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rishikeshgundla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rishikesh.dorik.io/)
 
 </div>
 
@@ -240,13 +239,58 @@ What sets me apart is the ability to think both upstream and downstream — engi
 
 ## Experience
 
-```
-Nutanix             Sr. Business Intelligence Engineer    Apr 2024 – Present
-phData              Analytics Consultant                  Apr 2023 – Apr 2024
-ScatterPie Analytics    Data Analyst                      Jan 2022 – Apr 2023
-ScatterPie Analytics    Junior Data Analyst               Aug 2021 – Jan 2022
-Media.net           Research Analyst                      Aug 2020 – Aug 2021
-```
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2024--Present-58A6FF?style=flat-square&logoColor=white" alt="2024-Present" />
+</td>
+<td>
+<strong>Sr. Business Intelligence Engineer</strong> &nbsp;·&nbsp; Nutanix
+<br/>
+<sub>Architect enterprise BI solutions with Tableau, Power BI, Databricks & Microsoft Fabric. Drive automation strategies and data quality across the analytics pipeline.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2023--2024-8B949E?style=flat-square&logoColor=white" alt="2023-2024" />
+</td>
+<td>
+<strong>Analytics Consultant</strong> &nbsp;·&nbsp; phData
+<br/>
+<sub>Delivered project-based consulting engagements — analytical prototyping, data visualization solutions, and platform architecture optimization.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2022--2023-8B949E?style=flat-square&logoColor=white" alt="2022-2023" />
+</td>
+<td>
+<strong>Data Analyst</strong> &nbsp;·&nbsp; ScatterPie Analytics
+<br/>
+<sub>Developed customized Tableau dashboards, designed ETL workflows with Alteryx & Tableau Prep, and mentored junior analysts.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2021--2022-8B949E?style=flat-square&logoColor=white" alt="2021-2022" />
+</td>
+<td>
+<strong>Junior Data Analyst</strong> &nbsp;·&nbsp; ScatterPie Analytics
+<br/>
+<sub>Designed Tableau dashboards and generated actionable insights on large datasets to drive revenue impact.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2020--2021-8B949E?style=flat-square&logoColor=white" alt="2020-2021" />
+</td>
+<td>
+<strong>Research Analyst</strong> &nbsp;·&nbsp; Media.net
+<br/>
+<sub>Optimized domains for contextual advertising, maintained analytics dashboards, and managed accounts across US, UK & CA markets.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -276,22 +320,6 @@ Media.net           Research Analyst                      Aug 2020 – Aug 2021
 |---|---|---|
 | **IIIT Bangalore** | PG Program in Data Science | Dec 2021 – Jan 2023 |
 | **Atharva College of Engineering** | BE, Electronics & Communications | 2016 – 2020 |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishigundla&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishigundla&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishigundla&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
