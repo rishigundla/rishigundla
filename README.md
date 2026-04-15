@@ -316,10 +316,28 @@ What sets me apart is the ability to think both upstream and downstream — engi
 
 ## Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| **IIIT Bangalore** | PG Program in Data Science | Dec 2021 – Jan 2023 |
-| **Atharva College of Engineering** | BE, Electronics & Communications | 2016 – 2020 |
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2021--2023-58A6FF?style=flat-square&logoColor=white" alt="2021-2023" />
+</td>
+<td>
+<strong>PG Program in Data Science</strong>
+<br/>
+International Institute of Information Technology, Bangalore (IIIT-B)
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/2016--2020-8B949E?style=flat-square&logoColor=white" alt="2016-2020" />
+</td>
+<td>
+<strong>BE, Electronics & Communications Engineering</strong>
+<br/>
+Atharva College of Engineering
+</td>
+</tr>
+</table>
 
 ---
 
