@@ -88,12 +88,22 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <tr>
 <td width="50%">
 
+**[NovaCart Order Analytics Pipeline](https://github.com/rishigundla/novacart-databricks-project)**
+<br/>Incremental Azure SQL ingestion via Lakehouse Federation with watermark control tables, SCD2 history, quarantine flows, and Volume snapshot publishing
+<br/><br/>
+`Lakehouse Federation` `SCD2` `Delta MERGE` `Unity Catalog`
+
+</td>
+<td width="50%">
+
 **[Restaurant Analytics Pipeline](https://github.com/rishigundla/restaurant-databricks-declarative-pipeline-project)**
 <br/>AI-enhanced restaurant analytics with Mosaic AI sentiment analysis on customer reviews, Genie NL querying, and streaming DLT pipelines
 <br/><br/>
 `DLT` `Auto Loader` `Mosaic AI` `Genie` `Unity Catalog`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[FMCG Sports Analytics Pipeline](https://github.com/rishigundla/fmcg-databricks-project)**
@@ -102,8 +112,6 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `PySpark` `Delta Lake` `ADLS Gen2` `Workflows`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Aviation Analytics Pipeline](https://github.com/rishigundla/aviation-databricks-declarative-pipeline-project)**
@@ -112,6 +120,8 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `DLT` `Auto Loader` `Unity Catalog` `Delta Lake`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[Banking Analytics Pipeline](https://github.com/rishigundla/banking-databricks-declarative-pipeline-project)**
@@ -120,8 +130,6 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `Auto Loader` `DLT` `Delta Lake` `AI/BI Dashboard`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Superstore Analytics Pipeline](https://github.com/rishigundla/superstore-databricks-project)**
@@ -130,6 +138,8 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `Delta Lake` `Unity Catalog` `PySpark`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[Amazon Retail Analytics Pipeline](https://github.com/rishigundla/amazonretail-databricks-project)**
@@ -138,8 +148,6 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `ADF` `PySpark` `Delta Lake` `Azure SQL`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[AdventureWorks Analytics Pipeline](https://github.com/rishigundla/adventureworks-databricks-project)**
@@ -148,6 +156,8 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `Delta Lake` `ADLS Gen2` `PySpark`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[NYC Taxi Analytics Pipeline](https://github.com/rishigundla/nyctaxi-databricks-project)**
@@ -156,8 +166,6 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `Volumes` `Delta Lake` `PySpark`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Vehicle Theft Analytics Pipeline](https://github.com/rishigundla/vehicletheft-databricks-project)**
@@ -166,12 +174,19 @@ What sets me apart is the ability to think both upstream and downstream — engi
 `ADF` `PySpark` `ADLS Gen2`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[Citi Bike Trip Analytics](https://github.com/rishigundla/citi-bike-trip-analytics-databricks)**
 <br/>EDA on 6M+ trip records — peak hours, popular stations, customer vs subscriber behavior
 <br/><br/>
 `Databricks SQL` `Delta Lakehouse` `Tableau`
+
+</td>
+<td width="50%">
+
+&nbsp;
 
 </td>
 </tr>
