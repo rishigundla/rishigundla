@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Sr.+Business+Intelligence+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Sr.+Business+Intelligence+Engineer;Databricks+%7C+PySpark+%7C+SQL;Tableau+%7C+Power+BI+%7C+Figma;Building+AI+native+data+products" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-rishigundlas-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishikeshgundla.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshgundla)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rishikeshgundla)
 
@@ -23,11 +23,13 @@
 
 ## About Me
 
-Senior Business Intelligence Engineer with over five years of experience transforming complex data into strategic, decision-ready insights. At Nutanix, I operate across the full data lifecycle — from pipeline engineering and large-scale data transformation to polished, stakeholder-facing analytics that directly influence executive decision-making.
+Senior Business Intelligence Engineer with over five years of experience transforming complex data into strategic, decision ready insights. At Nutanix I operate across the full data lifecycle, from pipeline engineering and large scale data transformation to polished, stakeholder facing analytics that directly influence executive decision making.
 
-My technical practice spans both the analytics and engineering layers of the modern data stack. I leverage Tableau, Power BI, SQL, and Figma to design and standardize dashboard experiences that are analytically rigorous and built for enterprise-wide adoption, while working with Microsoft Fabric, Databricks, and PySpark to build resilient data pipelines and orchestrate transformations at scale.
+My technical practice spans both the analytics and engineering layers of the modern data stack. I leverage Tableau, Power BI, SQL, and Figma to design and standardise dashboard experiences that are analytically rigorous and built for enterprise wide adoption, while working with Databricks and PySpark to build resilient Medallion pipelines with Spark Declarative Pipelines, Lakeflow Connect change data capture, Unity Catalog governance, and Lakebase serving for application workloads.
 
-What sets me apart is the ability to think both upstream and downstream — engineering robust data infrastructure while understanding how stakeholders interpret and act on that data.
+What sets me apart is the ability to think both upstream and downstream: engineering robust data infrastructure while understanding how stakeholders interpret and act on that data.
+
+I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrations for Databricks, PostgreSQL, Figma, Atlassian, and GitHub are part of how I plan, ship, and validate data work, and Genie Spaces bring natural language analytics to the business teams I serve.
 
 <br/>
 
@@ -57,17 +59,24 @@ What sets me apart is the ability to think both upstream and downstream — engi
 **Data Engineering**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
 
-**Cloud Platforms**
+**Lakehouse Platform**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Lakeflow](https://img.shields.io/badge/Lakeflow-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Lakebase](https://img.shields.io/badge/Lakebase-FF3621?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20ADLS%20%26%20ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **AI & Productivity**
 
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Integrations-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Genie](https://img.shields.io/badge/Genie%20Spaces-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Collaboration**
 
@@ -97,9 +106,9 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[Restaurant Analytics Pipeline](https://github.com/rishigundla/restaurant-databricks-declarative-pipeline-project)**
-<br/>AI-enhanced restaurant analytics with Mosaic AI sentiment analysis on customer reviews, Genie NL querying, and streaming DLT pipelines
+<br/>AI enhanced restaurant analytics with Mosaic AI sentiment analysis on customer reviews, Genie NL querying, and streaming declarative pipelines
 <br/><br/>
-`DLT` `Auto Loader` `Mosaic AI` `Genie` `Unity Catalog`
+`Spark Declarative Pipelines` `Auto Loader` `Mosaic AI` `Genie` `Unity Catalog`
 
 </td>
 </tr>
@@ -107,7 +116,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[FMCG Sports Analytics Pipeline](https://github.com/rishigundla/fmcg-databricks-project)**
-<br/>Dual-company integration (Atlikon + Sportsbar) with event-driven workflows, incremental UPSERTs, and unified Star Schema
+<br/>Dual company integration (Atlikon + Sportsbar) with event driven workflows, incremental UPSERTs, and a unified Star Schema
 <br/><br/>
 `PySpark` `Delta Lake` `ADLS Gen2` `Workflows`
 
@@ -115,9 +124,9 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[Aviation Analytics Pipeline](https://github.com/rishigundla/aviation-databricks-declarative-pipeline-project)**
-<br/>Streaming aviation analytics with SCD Type-2 change data capture using DLT Auto-CDC
+<br/>Streaming aviation analytics with SCD Type 2 change data capture using AUTO CDC in Spark Declarative Pipelines
 <br/><br/>
-`DLT` `Auto Loader` `Unity Catalog` `Delta Lake`
+`Spark Declarative Pipelines` `Auto Loader` `Unity Catalog` `Delta Lake`
 
 </td>
 </tr>
@@ -125,9 +134,9 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[Banking Analytics Pipeline](https://github.com/rishigundla/banking-databricks-declarative-pipeline-project)**
-<br/>Production banking analytics with SCD Type-1/2, streaming ingestion, and materialized views
+<br/>Production banking analytics with SCD Type 1 and Type 2, streaming ingestion, and materialized views
 <br/><br/>
-`Auto Loader` `DLT` `Delta Lake` `AI/BI Dashboard`
+`Auto Loader` `Spark Declarative Pipelines` `Delta Lake` `AI/BI Dashboard`
 
 </td>
 <td width="50%">
@@ -151,7 +160,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[AdventureWorks Analytics Pipeline](https://github.com/rishigundla/adventureworks-databricks-project)**
-<br/>Seven CSV datasets through Bronze/Silver/Gold layers with Unity Catalog governance
+<br/>Seven CSV datasets through Bronze, Silver, and Gold layers with Unity Catalog governance
 <br/><br/>
 `Delta Lake` `ADLS Gen2` `PySpark`
 
@@ -161,7 +170,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[NYC Taxi Analytics Pipeline](https://github.com/rishigundla/nyctaxi-databricks-project)**
-<br/>Four-layer pipeline producing daily/weekly/monthly/quarterly summaries
+<br/>Four layer pipeline producing daily, weekly, monthly, and quarterly summaries
 <br/><br/>
 `Volumes` `Delta Lake` `PySpark`
 
@@ -179,7 +188,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[Citi Bike Trip Analytics](https://github.com/rishigundla/citi-bike-trip-analytics-databricks)**
-<br/>EDA on 6M+ trip records — peak hours, popular stations, customer vs subscriber behavior
+<br/>EDA on 6M+ trip records: peak hours, popular stations, customer versus subscriber behaviour
 <br/><br/>
 `Databricks SQL` `Delta Lakehouse` `Tableau`
 
@@ -243,7 +252,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td width="50%">
 
 **[KPMG Data Analytics Internship](https://github.com/rishigundla/KPMG_Data_Analytics_Consulting_Virtual_Internship)**
-<br/>KPMG virtual internship — data quality assessment, insights, and presentation
+<br/>KPMG virtual internship covering data quality assessment, insights, and presentation
 <br/><br/>
 `Data Analysis` `Visualization`
 
@@ -263,7 +272,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td>
 <strong>Sr. Business Intelligence Engineer</strong> &nbsp;·&nbsp; Nutanix
 <br/>
-<sub>Architect enterprise BI solutions with Tableau, Power BI, Databricks & Microsoft Fabric. Drive automation strategies and data quality across the analytics pipeline.</sub>
+<sub>Own Databricks Medallion pipelines (Spark Declarative Pipelines, Lakeflow Connect CDC, Unity Catalog, Lakebase serving) and enterprise dashboards in Tableau and Power BI. Drive automation, data quality, and AI assisted delivery across the analytics pipeline.</sub>
 </td>
 </tr>
 <tr>
@@ -273,7 +282,7 @@ What sets me apart is the ability to think both upstream and downstream — engi
 <td>
 <strong>Analytics Consultant</strong> &nbsp;·&nbsp; phData
 <br/>
-<sub>Delivered project-based consulting engagements — analytical prototyping, data visualization solutions, and platform architecture optimization.</sub>
+<sub>Delivered project based consulting engagements: analytical prototyping, data visualization solutions, and platform architecture optimization.</sub>
 </td>
 </tr>
 <tr>
@@ -361,14 +370,14 @@ Atharva College of Engineering
 
 ### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-rishigundlas-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishikeshgundla.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundlarishikesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshgundla)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rishikeshgundla)
 
 <br/>
 
-*Open to opportunities in Data Engineering, Analytics Engineering, and Senior BI roles.*
+*Open to Data Engineering, Analytics Engineering, AI Data Engineering, and Senior BI roles.*
 <br/>
 *Let's build something meaningful with data.*
 
