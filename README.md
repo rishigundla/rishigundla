@@ -38,7 +38,7 @@ I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrati
 <img src="https://img.shields.io/badge/5%2B%20Years-Experience-58A6FF?style=flat-square" alt="Experience" />
 <img src="https://img.shields.io/badge/100%2B-Dashboards%20Shipped-58A6FF?style=flat-square" alt="Dashboards" />
 <img src="https://img.shields.io/badge/4-Companies-58A6FF?style=flat-square" alt="Companies" />
-<img src="https://img.shields.io/badge/3-Certifications-58A6FF?style=flat-square" alt="Certifications" />
+<img src="https://img.shields.io/badge/5-Certifications-58A6FF?style=flat-square" alt="Certifications" />
 <img src="https://img.shields.io/badge/10%2B-Data%20Pipelines-58A6FF?style=flat-square" alt="Pipelines" />
 <img src="https://img.shields.io/badge/15%2B-Data%20Models-58A6FF?style=flat-square" alt="Data Models" />
 
@@ -322,6 +322,16 @@ I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrati
 ## Certifications
 
 <div align="center">
+
+<a href="https://credentials.databricks.com/cc641ea8-2b64-4b66-9e99-50107d00dbe6#acc.xbzjXOWS">
+<img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate" />
+</a>
+&nbsp;
+<a href="https://credentials.databricks.com/d361a4cb-4b7b-43b8-ba77-1049f25369b8#acc.KQYi47d9">
+<img src="https://img.shields.io/badge/Databricks-Data%20Analyst%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Analyst Associate" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.credly.com/badges/137c8743-d119-4b9d-9eb5-a04a8810221f/public_url">
 <img src="https://img.shields.io/badge/Tableau-Desktop%20Specialist-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" />
