@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Sr.+Business+Intelligence+Engineer;Databricks+%7C+PySpark+%7C+SQL;Tableau+%7C+Power+BI+%7C+Figma;Building+AI+native+data+products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Sr.+Business+Intelligence+Engineer;Databricks+%7C+Spark+%7C+PySpark+%7C+SQL;Power+BI+%7C+Tableau+%7C+Figma;Building+AI+native+data+products" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 Senior Business Intelligence Engineer with over five years of experience transforming complex data into strategic, decision ready insights. At Nutanix I operate across the full data lifecycle, from pipeline engineering and large scale data transformation to polished, stakeholder facing analytics that directly influence executive decision making.
 
-My technical practice spans both the analytics and engineering layers of the modern data stack. I leverage Tableau, Power BI, SQL, and Figma to design and standardise dashboard experiences that are analytically rigorous and built for enterprise wide adoption, while working with Databricks and PySpark to build resilient Medallion pipelines with Spark Declarative Pipelines, Lakeflow Connect change data capture, Unity Catalog governance, and Lakebase serving for application workloads.
+My technical practice spans both the engineering and analytics layers of the modern data stack. I work with Databricks, Spark, PySpark, and SQL to build resilient Medallion pipelines with Spark Declarative Pipelines, Lakeflow Connect change data capture, Unity Catalog governance, and Lakebase serving for application workloads, and I leverage Power BI, Tableau, and Figma to design and standardise dashboard experiences that are analytically rigorous and built for enterprise wide adoption.
 
 What sets me apart is the ability to think both upstream and downstream: engineering robust data infrastructure while understanding how stakeholders interpret and act on that data.
 
-I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrations for Databricks, PostgreSQL, Figma, Atlassian, and GitHub are part of how I plan, ship, and validate data work, and Genie Spaces bring natural language analytics to the business teams I serve.
+I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrations for Databricks, PostgreSQL, Figma, Atlassian, and GitHub are part of how I plan, ship, and validate data work, and Genie Agents and AI/BI Dashboards bring natural language analytics to the business teams I serve.
 
 <br/>
 
@@ -50,19 +50,6 @@ I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrati
 
 <div align="center">
 
-**Data Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Data Engineering**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-
 **Lakehouse Platform**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -71,12 +58,26 @@ I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrati
 ![Lakebase](https://img.shields.io/badge/Lakebase-FF3621?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20ADLS%20%26%20ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+
+**Data Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 **AI & Productivity**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP%20Integrations-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Genie](https://img.shields.io/badge/Genie%20Spaces-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Genie](https://img.shields.io/badge/Genie%20Agents-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Collaboration**
 
@@ -272,7 +273,7 @@ I build with AI in the loop every day. Claude Code, Cursor AI, and MCP integrati
 <td>
 <strong>Sr. Business Intelligence Engineer</strong> &nbsp;·&nbsp; Nutanix
 <br/>
-<sub>Own Databricks Medallion pipelines (Spark Declarative Pipelines, Lakeflow Connect CDC, Unity Catalog, Lakebase serving) and enterprise dashboards in Tableau and Power BI. Drive automation, data quality, and AI assisted delivery across the analytics pipeline.</sub>
+<sub>Own Databricks Medallion pipelines (Spark Declarative Pipelines, Lakeflow Connect CDC, Unity Catalog, Lakebase serving), Genie Agents and AI/BI Dashboards for leadership teams, and enterprise dashboards in Power BI and Tableau. Drive automation, data quality, and AI assisted delivery across the analytics pipeline.</sub>
 </td>
 </tr>
 <tr>
